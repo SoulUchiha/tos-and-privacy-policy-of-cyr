@@ -7,5 +7,9 @@
 By using CyR bot, Users confirm to meet the following requirements:
 
 **There are no restrictions for Users in terms of being Consumers or Business Users**
+
+
 **Users must be older than 13**
+
+
 **Minors may only use CyR under parental or adult supervision**

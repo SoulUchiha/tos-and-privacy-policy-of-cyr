@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## By Using [CyR Bot](https://dsc.gg/cyr-nortex) Accept to these Privacy Policy
+## By Using [XEpert Bot](https://xepert.ml/invite) Accept to these Privacy Policy
 
 ```
                          What We Store?
@@ -19,7 +19,7 @@
 ```
                         Do we Share this data?
 ```
-- No! We don't share any Data. Even the < Just a Soul IC />#4629 / Me doesn't check the data often.
+- No! We don't share any Data. Even the devs don't check the data often.
 
 ```
                         How we use the data?
@@ -29,15 +29,15 @@
 ```
                        How can you delete the data?
 ```
-- You can Open a Ticket in the [Support Server](https://dsc.gg/nortex-dev) and Contact [< Just a Soul IC />#4629](https://discord.com/users/978601368950542397)
+- You can Open a Ticket in the [Support Server](https://discord.gg/sCSMJuT9YZ) and Contact [souluchiha7](https://discord.com/users/978601368950542397)
 
 #
 
 <div align="center">
-<a href="https://dsc.gg/nortex-dev"><img src="https://media.discordapp.net/attachments/1060459622374313984/1062597407986167828/image.png"/></a>
+<a href="https://discord.gg/sCSMJuT9YZ"><img src="https://media.discordapp.net/attachments/1060459622374313984/1062597407986167828/image.png"/></a>
 <br></br>
 
-<a href="https://dsc.gg/nortex-dev">
+<a href="https://discord.gg/sCSMJuT9YZ">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://youtube.com/@XydroDevelopment">
